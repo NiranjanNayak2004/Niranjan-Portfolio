@@ -89,6 +89,36 @@ const SOCIALS = [
 
 const PROJECTS = [
   {
+    title: 'PrepForgeAI — AI Career Preparation Platform',
+
+    tech: [
+      <FaBrain />,
+      <SiLangchain />,
+      <SiReact />,
+      <SiFlask />,
+      <SiMysql />
+    ],
+
+    desc:
+      'Full-stack AI-powered career preparation platform that analyzes resumes, evaluates resume-to-job compatibility, identifies matched and missing skills, and provides actionable skill recommendations.',
+
+    tags: [
+      'Python',
+      'Flask',
+      'React.js',
+      'MySQL',
+      'SQLAlchemy',
+      'JWT',
+      'LangChain',
+      'RAG',
+      'REST APIs'
+    ],
+
+    link: 'https://github.com/NiranjanNayak2004/PrepForgeAI',
+    linkLabel: 'View on GitHub'
+  },
+
+  {
     title: 'Study Material Distribution Platform',
 
     tech: [
